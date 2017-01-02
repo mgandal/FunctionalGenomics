@@ -1,5 +1,9 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+### Functional Genomics
+This website will ultimately provide a comprehensive workflow for functional genomic analyses with relevance neuropsychiatric disease. The goal is to identify the biological & molecular pathways that contribute to highly heritable disorders, such as schizophrenia or autism spectrum disroders (ASD). The general principles were outlined in a recent review, [Gandal MJ., et al. "The road to precision psychiatry: translating genetics into disease mechanisms" *Nature Neuroscience* **19**, 1397–1407 (2016) doi:10.1038/nn.4409](http://www.nature.com/neuro/journal/v19/n11/full/nn.4409.html)
+
+
+
+automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
 
 ### Designer Templates
 We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
