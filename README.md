@@ -1,2 +1,2 @@
 # FunctionalGenomics
-[See here](mgandal.github.io/FunctionalGenomics/)
+[See here](http://mgandal.github.io/FunctionalGenomics/)
