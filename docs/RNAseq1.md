@@ -1,4 +1,4 @@
-# RNA-seq Workflow
+# RNA-seq Mapping and Quantification
 
 ## Overview
 
